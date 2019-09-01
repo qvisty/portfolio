@@ -2,4 +2,5 @@ git init //nyt repo
 git status //status
 git commit -m "This is my first commit!"
 git remote add origin https://github.com/cubeton/mynewrepository.git
-git push origin master
+git push origin master /op på github
+git pull origin master /tilbage igen
